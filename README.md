@@ -1,1 +1,1 @@
-Yleinen repo omille projekteille
+Just a repo for my own projects
